@@ -1,0 +1,26 @@
+
+step1:
+
+put header.php ,sidebar.php and footer.php in includes folder.
+
+
+step2:
+
+addpost.php , categories.php , comments.php , editpost.php , indexs.php , posts.php and includes folder in admin folder 
+
+step3:
+
+bootstrap.min.css in css folder 
+bootstrap.bundle.js in js folder 
+
+put css and js in assets folder 
+put assets folder in admin folder and in plog folder 
+
+export blogphp in your phpmyadmin
+
+create uploads folder
+
+so you should have plog folder incloud 1.admin folder 2.assets folder 3.aploads folder 4.config.php 5.index.php 6.posts.php
+
+
+Any questions '01024805654' 
